@@ -1,0 +1,8 @@
+# Ignoring idea files
+.idea
+
+#ignoring output files
+.out
+
+#ignoring iml files
+*.iml
